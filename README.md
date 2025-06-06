@@ -16,6 +16,7 @@ Tools: Git, Vite, VSCode
 State Management: Context API
 Other Libraries: Axios, React Router, React Toastify
 # Installation
+
 Clone the repository:
 
 git clone https://github.com/nuricanbrdmr/Spotify-Clone-MERN-Website.git
@@ -41,7 +42,8 @@ Run the frontend:
 cd spotify-frontend
 npm install
 npm run dev
-Usage
-Open your browser and navigate to http://localhost:5173.
+
+#Usage
+Open your browser and navigate to http://localhost:3000.
 Create new albums and songs on the Spotify Admin page.
 Browse albums and songs, create playlists, and enjoy music.
