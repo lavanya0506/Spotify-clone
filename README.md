@@ -21,7 +21,7 @@ Clone the repository:
 
 git clone https://github.com/lavanya0506/Spotify-clone.git<br/>
 cd Spotify-Clone-MERN-Website\
-Set up environment variables: Create a .env file in the root directory and add the following:\
+Set up environment variables: Create a .env file in the root directory and add the following:
 
 MONGO_URI=your_mongodb_uri \
 CLOUDINARY_CLOUD_NAME=your_cloudinary_cloud_name\
