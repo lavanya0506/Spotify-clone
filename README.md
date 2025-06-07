@@ -44,6 +44,6 @@ npm install\
 npm run dev
 
 #Usage
-Open your browser and navigate to http://localhost:3000.
-Create new albums and songs on the Spotify Admin page.
-Browse albums and songs, create playlists, and enjoy music.
+Open your browser and navigate to http://localhost:3000.<br/>
+Create new albums and songs on the Spotify Admin page.<br/>
+Browse albums and songs, create playlists, and enjoy music.<br/>
