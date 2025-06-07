@@ -14,7 +14,7 @@ Database: MongoDB\
 Cloud Storage: Cloudinary for image and song storage\
 Tools: Git, Vite, VSCode\
 State Management: Context API\
-Other Libraries: Axios, React Router, React Toastify\
+Other Libraries: Axios, React Router, React Toastify
 # Installation
 
 Clone the repository:
@@ -41,7 +41,7 @@ Run the frontend:
 
 cd spotify-frontend\
 npm install\
-npm run dev\
+npm run dev
 
 #Usage
 Open your browser and navigate to http://localhost:3000.
