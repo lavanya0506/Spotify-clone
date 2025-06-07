@@ -23,25 +23,25 @@ git clone https://github.com/nuricanbrdmr/Spotify-Clone-MERN-Website.git
 cd Spotify-Clone-MERN-Website
 Set up environment variables: Create a .env file in the root directory and add the following:
 
-MONGO_URI=your_mongodb_uri
-CLOUDINARY_CLOUD_NAME=your_cloudinary_cloud_name
-CLOUDINARY_API_KEY=your_cloudinary_api_key
-CLOUDINARY_API_SECRET=your_cloudinary_api_secret
+MONGO_URI=your_mongodb_uri \
+CLOUDINARY_CLOUD_NAME=your_cloudinary_cloud_name\
+CLOUDINARY_API_KEY=your_cloudinary_api_key\
+CLOUDINARY_API_SECRET=your_cloudinary_api_secret\
 
 
-cd spotify-backend
-npm install
-npm start
-Run the backend server:
+cd spotify-backend\
+npm install\
+npm start\
+Run the backend server:\
 
-cd spotify-admin
-npm install
-npm run dev
-Run the frontend:
+cd spotify-admin\
+npm install\
+npm run dev\
+Run the frontend:\
 
-cd spotify-frontend
-npm install
-npm run dev
+cd spotify-frontend\
+npm install\
+npm run dev\
 
 #Usage
 Open your browser and navigate to http://localhost:3000.
