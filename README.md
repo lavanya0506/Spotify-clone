@@ -1,6 +1,5 @@
 # Spotify-Clone
-
-A fully functional Spotify clone built with React, Node.js, Express.js and MongoDB. This project aims to replicate the core functionalities of Spotify, allowing users to browse albums, play songs, and manage playback. It includes functionalities for creating, browsing, and removing albums, as well as uploading, viewing, and deleting songs.
+A complete and working clone of Spotify, constructed using React, Node.js, Express.js, and MongoDB. The goal of this project is to mimic Spotify's essential features, which include the ability to play music, explore albums, and control playback. It has features for uploading, viewing, and deleting songs in addition to creating, browsing, and deleting albums.
 
 # Features
 Album Management: Create, list, and delete albums.\
