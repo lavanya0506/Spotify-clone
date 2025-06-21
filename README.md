@@ -28,17 +28,17 @@ CLOUDINARY_CLOUD_NAME=your_cloudinary_cloud_name\
 CLOUDINARY_API_KEY=your_cloudinary_api_key\
 CLOUDINARY_API_SECRET=your_cloudinary_api_secret
 
-
 cd spotify-backend\
 npm install\
 npm start\
-Run the backend server:
 
+
+Run the backend :
 cd spotify-admin\
 npm install\
 npm run dev\
-Run the frontend:
 
+Run the frontend:
 cd spotify-frontend\
 npm install\
 npm run dev
